@@ -1,0 +1,1 @@
+{ "functions": { "app/api/pay/[id]/route.js": { "maxDuration": 30 } } }

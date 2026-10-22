@@ -1,0 +1,16 @@
+{
+  "name": "paydesk",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4",
+    "bcryptjs": "^2.4.3",
+    "imapflow": "^1.0.164",
+    "jose": "^5.9.6",
+    "mailparser": "^3.7.1",
+    "next": "14.2.15",
+    "qrcode": "^1.5.4",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
